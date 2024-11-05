@@ -25,7 +25,7 @@
 Setup Instructions
 
 1. **Clone the repository**:
-   - git clone https://github.com/yourusername/file-integrity-monitor.git
+   - git clone https://github.com/Aadam23/PowerShell-Integrity-FIM
 
 2. **Install any required libraries.**:
    - pip install -r requirements.txt
